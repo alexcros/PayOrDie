@@ -2,9 +2,8 @@ Preguntas:
 
 • Explica las decisiones más importantes que has tomado y que consideres más importante. Máximo dos párrafos.
 
-Lo más importante a sido decidir el UI para hacerlo lo más simple y amigable posible, sin cargar al usuario de pantallas o información.
-En esta iteración me he centrado solo en un prototipo sencillo. En una segunda iteracion se mejorará el aspecto visual para hacerlo más atractivo al usuario.
-
+Lo más importante a sido decidir el UI para hacerlo simple y amigable, sin cargar al usuario de pantallas o información.
+En esta iteración me he centrado solo en un prototipo sencillo.
 
 • Desde el punto de vista humano, ¿que cuestiones crees que son clave?. Desarrollar en un solo un párrafo.
 
