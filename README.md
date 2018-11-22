@@ -11,4 +11,6 @@ Hacer un UI que haga sencillo el uso al cliente y que genere confianza ya que es
 
 • ¿Qué onboarding crees que sería el adecuado? Desarrollar en un solo un párrafo.
 
-Uno que apareciese al arrancar la APP y antes del registro a modo de PageViewController o Tutorial y explique la sencillez del proceso de envío/recibo en 3 pasos máximo
+El onboarding adecuado seria uno que apareciese al arrancar la APP solicitando el acceso a la agenda de contactos 
+y antes del registro de usuario a modo de PageViewController/Tutorial y explique con claridad como se realiza un envío/recibo de dinero en 3-4 pasos máximo
+
